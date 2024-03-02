@@ -4,11 +4,11 @@
 
 ## Intruduction:
 
-### The Mahfil Android application is designed to provide users with access to a variety of islamic videos content, Including islamic lecture, Nasheed, Telawat and other islamic categories videos content. The main purpose of this testing effort was to verify the functionality and performance of the application across the application and user experience.
+#### The Mahfil Android application is designed to provide users with access to a variety of islamic videos content, Including islamic lecture, Nasheed, Telawat and other islamic categories videos content. The main purpose of this testing effort was to verify the functionality and performance of the application across the application and user experience.
 
 ## Testing Overview:
 
-### The testing process included functional testing, Performance testing, Exploratory testing, also UAT testing. Test cases are developed based nn the requirement specification on the. Testing was conducted on Two android devices of the different versions of the processor.
+#### The testing process included functional testing, Performance testing, Exploratory testing, also UAT testing. Test cases are developed based nn the requirement specification on the. Testing was conducted on Two android devices of the different versions of the processor.
 
 ## Testing Results:
 
